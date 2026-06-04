@@ -1,0 +1,21 @@
+# student_profile.py
+
+# Student profile stored in a dictionary
+student = {
+    "name": "Khushbu Chauhan",
+    "age": 20,
+    "course": "AIML",
+    "city": "Delhi"
+}
+
+# Function with type hints
+def create_profile_card(profile: dict) -> str:
+    return (
+        f"Name   : {profile['name']}\n"
+        f"Age    : {profile['age']}\n"
+        f"Course : {profile['course']}\n"
+        f"City   : {profile['city']}"
+    )
+
+# Display profile card
+print(create_profile_card(student))
