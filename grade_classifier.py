@@ -35,6 +35,7 @@ print("Student Grades:\n")
 for student in sorted_students:
     grade = classify(student["score"])
     print(f"{student['name']} - Score: {student['score']} - Grade: {grade}")
+<<<<<<< HEAD:file7.py
 =======
 from math import gcd
 
@@ -113,3 +114,5 @@ print("Less Than:", f5 < f6)
 # the remaining comparison methods (__le__, __gt__, __ge__)
 # if you define __eq__() and one ordering method such as __lt__().
 >>>>>>> master
+=======
+>>>>>>> 6113c2d72fb694c6681db62e67215b85950297d7:grade_classifier.py

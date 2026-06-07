@@ -19,6 +19,7 @@ print(f"My name is {student['name'].title()}.")
 print(f"I am {student['age']} years old.")
 print(f"I live in {student['city'].upper()}.")
 print(f"My favorite subject is {student['favorite_subject']} and I want to become a {student['target_role'].lower()}.")
+<<<<<<< HEAD:file.py
 =======
 class Student:
     school_name = "ABC School"
@@ -61,3 +62,5 @@ print(student1)
 print(student2)
 print(student3)
 >>>>>>> master
+=======
+>>>>>>> 6113c2d72fb694c6681db62e67215b85950297d7:intro.py

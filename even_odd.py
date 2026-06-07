@@ -17,6 +17,7 @@ try:
 
 except ValueError:
     print("Invalid input! Please enter a valid number.")
+<<<<<<< HEAD:file3.py
 =======
 import csv
 
@@ -67,3 +68,5 @@ with open("students.csv", "r") as infile:
 
 print("results.csv created successfully!")
 >>>>>>> master
+=======
+>>>>>>> 6113c2d72fb694c6681db62e67215b85950297d7:even_odd.py

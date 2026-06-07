@@ -42,6 +42,7 @@ try:
 
 except ValueError:
     print("Please enter valid numbers.")
+<<<<<<< HEAD:file6.py
 =======
 import json
 
@@ -89,3 +90,5 @@ update_config("config.json", "epochs", 20)
 print("\nUpdated Config:")
 print(load_config("config.json"))
 >>>>>>> master
+=======
+>>>>>>> 6113c2d72fb694c6681db62e67215b85950297d7:calculator.py

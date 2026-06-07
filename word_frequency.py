@@ -28,6 +28,7 @@ print("Word Frequency:\n")
 
 for word, count in sorted_result:
     print(f"{word}: {count}")
+<<<<<<< HEAD:file5.py
 =======
 class LibraryItem:
     def __init__(self, title, author, year):
@@ -82,3 +83,5 @@ print(isinstance(book1, LibraryItem))
 # Book inherits from LibraryItem, so a Book object
 # is also considered a LibraryItem object.
 >>>>>>> master
+=======
+>>>>>>> 6113c2d72fb694c6681db62e67215b85950297d7:word_frequency.py

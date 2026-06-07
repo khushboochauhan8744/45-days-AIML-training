@@ -7,6 +7,7 @@ for number, skill in enumerate(skills, start=1):
     print(f"{number}. {skill}")
 
 print(f"\nTotal skills: {len(skills)}")
+<<<<<<< HEAD:file2.py
 =======
 # 1. Extract numbers divisible by 3
 
@@ -52,3 +53,5 @@ print("Dictionary Comprehension:", square_dict)
 square_set = {x**2 for x in range(1, 6)}
 print("Set Comprehension:", square_set)
 >>>>>>> master
+=======
+>>>>>>> 6113c2d72fb694c6681db62e67215b85950297d7:skills_counter.py

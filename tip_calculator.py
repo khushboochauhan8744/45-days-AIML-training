@@ -25,6 +25,7 @@ print(f"Bill: 750 | Tip: {result2['tip']} | Total: {result2['total']}")
 # Test 3
 result3 = calculate_tip(500, 20)
 print(f"Bill: 500 | Tip: {result3['tip']} | Total: {result3['total']}")
+<<<<<<< HEAD:file4.py
 =======
 from typing import Optional
 
@@ -82,3 +83,5 @@ print("Power:", power(2, 3))
 print("Modulo:", modulo(10, 3))
 print("Modulo by Zero:", modulo(10, 0))
 >>>>>>> master
+=======
+>>>>>>> 6113c2d72fb694c6681db62e67215b85950297d7:tip_calculator.py

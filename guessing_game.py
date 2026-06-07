@@ -37,6 +37,7 @@ while attempts < max_attempts:
 # Runs only if the loop ends without break
 else:
     print(f"Game Over! The correct number was {secret_number}.")
+<<<<<<< HEAD:file8.py
 =======
 import csv
 
@@ -131,3 +132,5 @@ for product in new_inventory.products:
 # a new Inventory object using cls().
 # As an instance method, it loads data into an existing Inventory object.
 >>>>>>> master
+=======
+>>>>>>> 6113c2d72fb694c6681db62e67215b85950297d7:guessing_game.py
