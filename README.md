@@ -412,3 +412,41 @@ Demonstrates NumPy masking `arr > 10`, broadcasting `arr * 2`, and implements co
 ```bash
 pip install pandas numpy
 >>>>>>> 6113c2d72fb694c6681db62e67215b85950297d7
+# 🤖 45 Days AI/ML Training Projects
+
+This repository contains 4 Python/Data Science tasks completed during training.
+
+---ML_assignment
+
+## 📌 Task 1: Python Basics
+- Variables, loops, functions
+- Basic Python programs
+
+---
+
+## 📌 Task 2: Pandas Data Analysis
+- DataFrame operations
+- GroupBy and filtering
+- Data aggregation
+
+---
+
+## 📌 Task 3: OOP in Python
+- Classes and objects
+- Methods and constructors
+- Simple mini programs
+
+---
+
+## 📌 Task 4: Housing Data EDA
+- California Housing dataset analysis
+- Pandas, NumPy, Seaborn, Matplotlib
+- Data visualization and insights
+
+---
+
+## 🚀 How to Run
+```bash
+py task4_housing_eda.py
+##  AUTHOR
+**khushbu**
