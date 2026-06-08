@@ -354,4 +354,61 @@ python inventory.py
 =======
 python tip_calculator.py
 
+AI/ML Training Practice Repository
+
+=======
+
+Project Overview
+
+This repository contains 4 tasks completed during AI/ML training. It focuses on Python basics, data analysis, object-oriented programming, and exploratory data analysis using real-world datasets.
+
+Task 1 - Python Basics
+
+This task focuses on learning basic Python concepts.
+
+Variables and data types
+Loops (for, while)
+Conditional statements (if-else)
+Basic functions
+Simple logic building programs
+Task 2 - Pandas Data Analysis
+
+This task focuses on data analysis using Pandas library.
+
+DataFrame creation and loading datasets
+Data filtering and selection
+GroupBy operations
+Aggregation functions (mean, sum, count)
+Basic data exploration techniques
+Task 3 - Object Oriented Programming (OOP)
+
+This task focuses on Python OOP concepts.
+
+Classes and objects
+Constructors (init)
+Methods and functions inside class
+Real-world problem solving using OOP
+Code reusability and structure improvement
+Task 4 - California Housing EDA
+
+This task focuses on exploratory data analysis using real dataset.
+
+California housing dataset analysis (1990 census data)
+Data loading using Pandas
+Data cleaning and preprocessing
+Statistical summary of dataset
+Data visualization using Matplotlib and Seaborn
+Analysis of income vs house price
+Correlation and pattern identification
+Key Learnings
+Python programming fundamentals
+Data analysis using Pandas
+Data visualization techniques
+Object-oriented programming concepts
+Real-world dataset handling and insights
+Author
+
+Khushbu Chauhan
+AI/ML Training Program
+
 
