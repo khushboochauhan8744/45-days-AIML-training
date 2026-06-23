@@ -1,0 +1,39 @@
+
+## Tasks Completed
+
+### Task 1
+- Baseline Linear Regression Model
+- Evaluation Metrics
+- Actual vs Predicted Visualization
+
+### Task 2
+- One Feature Model
+- Multi Feature Model
+- Performance Comparison
+
+### Task 3
+- Different Train/Test Splits
+- Stability Analysis
+
+### Task 4
+- Manual Metric Verification
+- Additional Metric (Median Absolute Error)
+- Large Error Experiment
+
+## Metrics Used
+
+- MSE
+- RMSE
+- MAE
+- R² Score
+- Median Absolute Error
+
+## Results
+
+The multi-feature Linear Regression model achieved better predictive performance than the single-feature model.
+
+MSE was found to be the most sensitive metric to large prediction errors.
+
+## Author
+
+AI/ML Internship Assignment
