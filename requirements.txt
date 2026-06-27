@@ -1,14 +1,8 @@
-<<<<<<< HEAD
-numpy
-pandas
-matplotlib
-scikit-learn
-jupyter
-notebook
-=======
 pandas
 numpy
 matplotlib
 seaborn
+scikit-learn
+xgboost
+shap
 jupyter
->>>>>>> 598462c57906eaad3f6766177792b6c2d8b4aad4
